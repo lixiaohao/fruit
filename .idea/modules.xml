@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fruit.iml" filepath="$PROJECT_DIR$/fruit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fruit-admin/fruit-admin.iml" filepath="$PROJECT_DIR$/fruit-admin/fruit-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fruit-api/fruit-api.iml" filepath="$PROJECT_DIR$/fruit-api/fruit-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fruit-service/fruit-service.iml" filepath="$PROJECT_DIR$/fruit-service/fruit-service.iml" />
+    </modules>
+  </component>
+</project>
